@@ -1,0 +1,33 @@
+# 环境变量（包含 API Key）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+.venv/
+
+# Docker 数据卷
+data/chroma_data/
+data/es_data/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ChromaDB 本地存储
+data/chroma_db/
+
+# macOS
+.DS_Store
+
+# 对话导出
+conversation_history.json
