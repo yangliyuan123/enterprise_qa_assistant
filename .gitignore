@@ -31,3 +31,6 @@ data/chroma_db/
 
 # 对话导出
 conversation_history.json
+
+# Ignore all PDF files under documents
+data/documents/**/*.pdf
