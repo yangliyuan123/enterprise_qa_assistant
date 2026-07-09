@@ -1,7 +1,7 @@
 # 🏢 企业知识问答助手 — Enterprise Knowledge Q&A Assistant
 
 基于 **LangChain + RAG + ChromaDB** 构建的企业级知识问答系统，支持多格式文档导入、语义检索和智能问答。
-
+系统截图：![alt text](image.png)
 ## 功能概览
 
 - **多格式文档加载**：支持 PDF、Word、Markdown、TXT 文档的批量导入
